@@ -107,7 +107,7 @@ section .container{
 
 .section3 div{
     width: 100%;
-    background-image: url(images/watch.png);
+    background-image:  linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(images/watch.png);
     background-repeat: no-repeat;
     padding: 20px;
     margin: 50px auto;
